@@ -23,4 +23,4 @@ GIF created with [Ezgif](https://ezgif.com/maker).
 
 ## License
 
-Copyright [2022] [Kunduz Narynbekova]
+Copyright [2023] [Kunduz Narynbekova]
