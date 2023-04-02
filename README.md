@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<![ezgif com-video-to-gif](https://user-images.githubusercontent.com/57134232/229354891-9a337d4f-340f-45a4-9c00-82d60ee51203.gif) />
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/57134232/229354891-9a337d4f-340f-45a4-9c00-82d60ee51203.gif) 
 
 GIF created with [Ezgif](https://ezgif.com/maker).
 
