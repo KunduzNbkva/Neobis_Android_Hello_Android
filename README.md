@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented features:
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/57134232/229354891-9a337d4f-340f-45a4-9c00-82d60ee51203.gif) 
 
